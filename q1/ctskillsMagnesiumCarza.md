@@ -27,7 +27,7 @@ During Lunch Hours in PSHS-BRC, the canteen is often swarmed with both students 
 ### Selected Sub-Problem
 Stock Tracker; There is currently no system to help the staff track which food items are running out.
 ### Flowchart
-![My Flowchart](images/Stock Tracker_Flowchart.png)
+![My Flowchart](images/StockTracker_Flowchart.png)
 ---
 ## Reflection
 Decomposition helps solve the canteen scenario by breaking the main problem down to 4 manageable subproblems such as ordering, payment process, and inventory monitoring. By doing so, solving the main problem becomes much easier as it allows us to visualize clear steps on how to solve it. And as each subproblems are separately solved, we then combine it into one system in which each part is properly addressed. 
