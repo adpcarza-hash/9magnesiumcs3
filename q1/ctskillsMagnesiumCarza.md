@@ -1,9 +1,9 @@
 # Computational Thinking Exercise
 ## Smart School Canteen Queue 
-**Name:**Angela 
-**Section:**9Magnesium
-**Last Name:**Carza
-**Date:**August 19, 2026
+**Name:** Angela 
+**Section:** 9Magnesium
+**Last Name:** Carza
+**Date:** August 19, 2026
 ---
 ## Step 1: Identify the Big Problem
 ### Main Problem
