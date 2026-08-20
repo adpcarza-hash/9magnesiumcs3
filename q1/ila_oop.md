@@ -2,11 +2,9 @@
 
 ## Sari-Sari Store Inventory System
 
-**Name:** Angela
+**Name:** Angela D. Carza
 
 **Section:** 9-Magnesium
-
-**Last Name:** Carza
 
 **Date:** August 20, 2026
 
