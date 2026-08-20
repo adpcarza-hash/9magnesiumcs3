@@ -1,8 +1,11 @@
 # Chinese Zodiac Exercise
 
 **Name:** Angela 
-**Section:** 9 - Magnesium 
+
 **Last Name:** Carza  
+
+**Section:** 9-Magnesium 
+
 **Date:** August 19, 2026
 
 ---
