@@ -5,14 +5,14 @@
 
 ## Quarter 1 Activities
 ### 1. Computational Thinking Skills Exercise
-[View my Computational Thinking Exercise](q1/ctskillsMagnesiumCarza.md)
+[Computational Thinking Exercise](q1/ctskillsMagnesiumCarza.md)
 
 ### 2. Chinese Zodiac Coding Exercise
-[View my Chinese Zodiac Documentation](q1/zodiacMagnesiumCarza.md)
-[View my Chinese Zodiac Code](q1/zodiacMagnesiumCarza.py)
+[Chinese Zodiac Documentation](q1/zodiacMagnesiumCarza.md)
+[Chinese Zodiac Code](q1/zodiacMagnesiumCarza.py)
 
 ### 3. Applying the Four Pillars of OOP
 [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 
 ### 4. My OOP Seed System; Understanding Classes and Objects
-[View my OOP Seed System Activity](q1/classObjectUML.md)
+[My OOP Seed System Activity](q1/classObjectUML.md)
