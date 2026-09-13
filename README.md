@@ -17,5 +17,5 @@
 ### 4. My OOP Seed System; Understanding Classes and Objects
 [My OOP Seed System Activity 1](q1/classObjectUML.md)
 
-### 5. My OOP Seed System - Part II
+### 5. My OOP Seed System; Bringing your Class to Life
 [My OOP Seed System Activity 2](q1/classAttributesMethods.md)
