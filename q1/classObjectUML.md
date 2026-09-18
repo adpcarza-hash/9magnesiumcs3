@@ -24,7 +24,7 @@
 |---|---|
 | sellViand() | sells viand with no taken parameters. |
 | serveViand(amount: int) | serves a portion of viand with an integer as the amount it will serve. |
-| displayInfo() | displays the info of each viand with no taken parameters. |
+| display_info() | displays the info of each viand with no taken parameters. |
 | check_stock() | checks the amount of servings of viand that are left in the inventory, with no taken parameters. |
 
 ---
@@ -40,4 +40,6 @@
 ### Which property is the most important? Why?
 	I think that the most important property is the name, because it allows both the customer and the staff to differentiate the viands from each other.
 ### Which method is the most useful? Why?
-	The most useful method would be displayInfo() because it allows the costumer to know which viand is available, along with its prices. 
+	The most useful method would be display_info() because it allows the customer to know which viand is available, along with its prices. 
+
+
