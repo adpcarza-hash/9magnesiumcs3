@@ -14,17 +14,18 @@
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
-| Hot | boolean | Whether the viand is hot or not when served. |
-| Flavor | string | The taste of each viand. |
-| Portion | integer | The amount of viand served per meal. |
-| Aroma | string | The smell of the viand as it is being served. |
+| name | string | How the viand is differentiated from each other. |
+| price | integer | How much the viand costs. |
+| stock | integer | The amount of viand remaining. |
+| calories | integer | The number of calories that a viand has. |
 
 ## Methods
 | Method | Description |
 |---|---|
-| cookViand() | cooks viand with no taken parameters. |
+| sellViand() | sells viand with no taken parameters. |
 | serveViand(amount: int) | serves a portion of viand with an integer as the amount it will serve. |
-| eatViand() | consumes viand with no taken parameters. |
+| displayInfo() | displays the info of each viand with no taken parameters. |
+| check_stock() | checks the amount of servings of viand that are left in the inventory, with no taken parameters. |
 
 ---
 
@@ -37,6 +38,6 @@
 ### Why did you choose this class?
 	I chose “viand” under the school canteen context because I think that there are numerous objects that may belong to this class along with many properties and methods, and because I was hungry.
 ### Which property is the most important? Why?
-	I think that the most important property is the flavor, because this property serves as the main purpose of buying viands—to pair flavor with rice.
+	I think that the most important property is the name, because it allows both the customer and the staff to differentiate the viands from each other.
 ### Which method is the most useful? Why?
-	The most useful method would be cookViand(), because without it, the viand wouldn’t even be a viand at all.
+	The most useful method would be displayInfo() because it allows the costumer to know which viand is available, along with its prices. 
