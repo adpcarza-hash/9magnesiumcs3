@@ -46,7 +46,9 @@ Explanation: The Viand object receives an already existing object and then it st
 --- 
 
 ## Test Run
-![Test](images/advancedTestRun.png)
+![Test](images/advancedTestRun1.png)
+![Test](images/advancedTestRun2.png)
+![Test](images/advancedTestRun3.png)
 
 --- 
 
