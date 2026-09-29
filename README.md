@@ -20,5 +20,8 @@
 ### 5. My OOP Seed System; Bringing your Class to Life
 [My OOP Seed System Activity 2](q1/classAttributesMethods.md)
 
-### 6. My OOP Seed System - Part III
+### 6. My OOP Seed System; Connecting your Objects
 [My OOP Seed System Activity 3](q1/classRelationships.md)
+
+### 7. My OOP Seed System; Designing Advanced Class Relationships
+[My OOP Seed System Activity 4](q1/advancedRelationships.md)
