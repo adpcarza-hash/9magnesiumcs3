@@ -25,3 +25,6 @@
 
 ### 7. My OOP Seed System; Designing Advanced Class Relationships
 [My OOP Seed System Activity 4](q1/advancedRelationships.md)
+
+### 8. Study Guide 8 - Encapsulation
+[My Encapsulation Code](q2/sg8_encapsulation.py)
