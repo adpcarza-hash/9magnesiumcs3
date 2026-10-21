@@ -12,4 +12,4 @@
 ---
 
 ## Python Test Run
-[My Inheritance Documentation](sg9_inheritanceTestRun.png)
+![My Inheritance Documentation](sg9_inheritanceTestRun.png)
