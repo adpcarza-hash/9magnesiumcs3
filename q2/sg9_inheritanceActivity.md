@@ -7,9 +7,9 @@
 --- 
 
 ## Python Implementation
-[My Inheritance Code](q2/sg9_inheritance.py)
+[My Inheritance Code](sg9_inheritance.py)
 
 ---
 
 ## Python Test Run
-[My Inheritance Documentation](q2/sg9_inheritanceTestRun.png)
+[My Inheritance Documentation](sg9_inheritanceTestRun.png)
