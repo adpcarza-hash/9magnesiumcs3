@@ -30,5 +30,5 @@
 [My Encapsulation Code](q2/sg8_encapsulation.py)
 
 ### 9. Study Guide 9 - Inheritance
-[My Inheritance Code](q2/sg9_inheritance.py)
+[My Inheritance Code](q2/sg9_inheritanceActivity.md)
 
