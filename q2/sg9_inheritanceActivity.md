@@ -7,9 +7,9 @@
 --- 
 
 ## Python Implementation
-[My Inheritance](q1/advancedRelationships.md)
+[My Inheritance Code](q2/sg9_inheritance.py)
 
 ---
 
 ## Python Test Run
-[My Inheritance](q1/advancedRelationships.md)
+[My Inheritance Documentation](q2/sg9_inheritanceTestRun.png)
