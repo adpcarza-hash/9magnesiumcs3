@@ -34,3 +34,12 @@
 ### 9. Study Guide 9 - Inheritance
 [My Inheritance Code](q2/sg9_inheritanceActivity.md)
 
+### 10. Study Guide 10 (to be updated)
+
+### 11. Study Guide 11 - Polymorphism Activity 1
+[My Polymorphism Activity 1](q2/sg11_polymorphismActivity1.md)
+
+### 12. Study Guide 11 - Polymorphism Activity 2
+[My Polymorphism Activity 2](q2/sg11_polymorphismActivity2.md)
+
+
