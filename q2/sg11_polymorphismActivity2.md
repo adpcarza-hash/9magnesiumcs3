@@ -1,5 +1,15 @@
-to be continued
+**Name:** Angela D. Carza
 
-update: sir nasira laptop q kanina, and balak ko po sana nun gawin yung activity, kaso nasira nga po, so ahyun haha punta po ako sayo sir bukas
+**Section:** 9-Magnesium
 
-also po nahiya po ako magpatulong kanina during comsci period + akala ko po maaayos later today(hindi pa rin po naayosTvT) so yes po
+**Date:** November 24, 2026
+
+--- 
+
+## Python Implementation
+[My Polymorphism Activity 2 Code](sg11_polymorphismActivity2.py)
+
+---
+
+## Python Test Run
+![My Polymorphism Activity 2 Documentation](images/sg11_polymorphismActivity2TestRun.png)
